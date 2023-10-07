@@ -1,8 +1,7 @@
 # taller-3
 
 Integrantes:
-Vicente Marquez
-Carlos Iturra
+Vicente Marquez y Carlos Iturra
 
 ## Project setup
 ```
